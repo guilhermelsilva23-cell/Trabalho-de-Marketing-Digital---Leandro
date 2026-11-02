@@ -5,7 +5,7 @@ Documentação científica e empresarial do trabalho, organizada para virar arti
 |---|---|---|
 | 00_gestao | Processo | Diário, decisões, perguntas abertas, controle de fontes |
 | 01_fundamentacao_academica | Acadêmica | Disciplinas da graduação e hipóteses de pesquisa |
-| 02_etapas | Aplicada | Uma nota por etapa do PDF (16 etapas) |
+| 02_etapas | Aplicada | Uma nota por etapa do PDF (16 etapas); `perguntas_guia/` com as perguntas das etapas 1 a 5 |
 | 03_artigo | Publicação | Estrutura IMRaD e argumento econômico |
 | 04_dados_e_evidencias | Evidência | Dados, links, datas de acesso |
 
