@@ -5,3 +5,9 @@ Fontes candidatas (verificar existência e acesso):
 - Importações de máquinas por NCM (Comex Stat/MDIC)
 - Volume de busca (Google Keyword Planner, Google Trends)
 Para cada arquivo: nome, fonte, data de acesso, tratamento aplicado.
+
+## Conteúdo atual
+| Arquivo/pasta | O que é | Tipo |
+|---|---|---|
+| `entrevista_professor_leandro.md` | Registro estruturado do áudio do professor (E01 a E15) | [E] |
+| `simulacao_exploratoria/` | Protocolo, personas ancoradas e registro de rodadas da simulação com agentes | [S] |
