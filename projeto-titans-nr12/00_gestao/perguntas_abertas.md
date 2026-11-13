@@ -27,3 +27,11 @@ Registro detalhado das respostas: `04_dados_e_evidencias/entrevista_professor_le
 14. Quais acidentes/autuações originaram os cases (para gatilho de mensagem, sem expor a empresa)?
 15. Como os clientes chegam hoje (indicação, WhatsApp, site)? Há registro de leads?
 16. Entre as máquinas adequadas, qual a proporção de importadas x nacionais antigas?
+
+## Validação pendente das respostas 1 a 5 (12/11/2026)
+Ver `00_gestao/plano_de_validacao_respostas_1_a_5.md`.
+17. Credencial (Lattes e registro CREA) e exemplo de ART do responsável técnico?
+18. Vídeos e autorização escrita dos cases?
+19. Lista dos últimos 5 projetos (cidade, tipo de máquina, valor em faixa, se importada)?
+20. Prazo típico de diagnóstico, apreciação de risco e adequação? (repete a 11)
+21. "A China não tem norma": refere-se à ausência de fiscalização ou de norma técnica? (existem normas técnicas chinesas)

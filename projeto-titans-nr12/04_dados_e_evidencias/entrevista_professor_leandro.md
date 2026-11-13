@@ -16,8 +16,8 @@
 | E08 | Visita/diagnóstico ~R$ 200; não cobra em projeto grande nem de cliente atual; cobra quando o cliente parece querer só aprender a fazer | 5 | [E] | Modelo híbrido de diagnóstico (Etapa 4) |
 | E09 | Adequação de serra pequena ~R$ 8 mil, incluindo grade, sensor, botão, painel elétrico, automação, ART, assinatura no CREA e relatório; serras maiores até ~R$ 20 mil | 5 | [E] | Ordem de grandeza para análise econômica e simulação; **não publicar como tabela de preço** |
 | E10 | Já adequou máquina importada; dificuldades: esquemas em mandarim e sem acesso ao código-fonte do CLP; contorna com IHM e CLP separados | 6 | [E] | Argumento técnico e conteúdo (Etapas 9 e 10) |
-| E11 | A China não tem norma equivalente à NR-12, por isso as máquinas chegam sem adequação | 6 | [E] **A VALIDAR** | Não publicar sem fonte |
-| E12 | Nos últimos 2 anos todos os clientes dele importam; "quase todo mundo" importa da China | 7 | [E] **A VALIDAR** | Hipótese H1; checar no Comex Stat |
+| E11 | A China não tem norma equivalente à NR-12, por isso as máquinas chegam sem adequação | 6 | [E] **CORRIGIDO** em 12/11/2026: existem normas técnicas chinesas de segurança de máquinas, inclusive compulsórias [F20]; o que não se verificou é a exigência legal e a fiscalização na prática | Não usar a frase original |
+| E12 | Nos últimos 2 anos todos os clientes dele importam; "quase todo mundo" importa da China | 7 | [E] com apoio de contexto [F21]: a tendência nacional é de aumento da importação; "todos" vale só para a carteira dele | Hipótese H1; checar no Comex Stat |
 | E13 | Entrevistar clientes que importam é difícil: tratam o fornecedor como segredo competitivo (alguns removem a etiqueta) | 7 | [E] | Justifica o método (simulação exploratória e entrevistas com SST/manutenção) |
 | E14 | Exemplo de cliente que identificou problemas de ergonomia (fora da NR-12), aprovou melhorias e não executou por 3 anos | 2 | [E] | Insight: a inércia é o principal concorrente (Etapa 12) |
 | E15 | Importar compensa para equipamentos de mecânica simples, que a manutenção própria atende; fabricante nacional ou representante local vale para equipamentos problemáticos que exigem garantia | 7 | [E] | Perfil da máquina importada-alvo |
@@ -26,3 +26,6 @@
 - Amostra de um respondente, com interesse comercial.
 - E12 vale para a carteira dele, não para o mercado.
 - Nenhum dado quantitativo de mercado foi obtido (continua [L] em `02_etapas/etapa_02.md`).
+
+## Validação
+Plano para as respostas 1 a 5: `00_gestao/plano_de_validacao_respostas_1_a_5.md`.

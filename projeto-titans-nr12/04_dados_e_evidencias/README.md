@@ -10,4 +10,5 @@ Para cada arquivo: nome, fonte, data de acesso, tratamento aplicado.
 | Arquivo/pasta | O que é | Tipo |
 |---|---|---|
 | `entrevista_professor_leandro.md` | Registro estruturado do áudio do professor (E01 a E15) | [E] |
-| `simulacao_exploratoria/` | Protocolo, personas ancoradas e registro de rodadas da simulação com agentes | [S] |
+| `dados_validados.md` | Dados com fonte, frase permitida e cuidado de uso | [F] |
+| `simulacao_exploratoria/` | Protocolo (MiroFish), material-semente, requisito de previsão e registro de rodadas | [S] |

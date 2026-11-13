@@ -1,0 +1,6 @@
+# Requisito de previsão (texto para colar no MiroFish)
+Português, com versão curta em inglês caso o modelo responda melhor.
+
+**PT:** Com base no material-semente, simule a reação de engenheiros de manutenção, gerentes de planta, donos de PME metalmecânica e compradores industriais, em uma rede profissional de SP, a três mensagens (M1 técnica, M2 risco, M3 inércia) e a três ofertas (A diagnóstico, B check-up de máquina importada, C pacote completo). Informe, por persona: (1) qual mensagem gera mais interesse; (2) as objeções mais frequentes, em especial sobre preço e prazo; (3) qual oferta é considerada de menor risco para começar; (4) que informação faltou para decidir. Não estime demanda nem volume de vendas.
+
+**EN:** Using the seed material, simulate how maintenance engineers, plant managers, small metalworking owners and industrial buyers in São Paulo react on a professional network to three messages (technical, risk, inertia) and three offers (diagnosis, imported-machine check-up, full package). Report per persona the most engaging message, the most frequent objections (especially price and lead time), the lowest-risk entry offer, and the missing information. Do not estimate demand or sales volume.

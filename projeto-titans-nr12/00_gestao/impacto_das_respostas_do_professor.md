@@ -20,3 +20,6 @@ Origem: `04_dados_e_evidencias/entrevista_professor_leandro.md`. Cada linha diz 
 2. **Inércia como concorrente:** cliente que aprovou melhorias de ergonomia e não executou por 3 anos [E14].
 3. **Capacidade:** um só responsável técnico assina tudo [E06]. Se a campanha funcionar, pode virar gargalo; medir antes de escalar a mídia.
 4. **Ticket:** ~R$ 8 mil por máquina pequena [E09] com clientes em modelo low cost [E03]: sensibilidade a preço alta; o diagnóstico por degrau reduz o risco da decisão.
+
+## Atualização de 12/11/2026
+As correções textuais das etapas 1, 2 e 4 decorrentes da validação estão em `00_gestao/relatorio_de_validacao.md`, seção 3 (localizar → substituir).
