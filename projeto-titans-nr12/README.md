@@ -19,3 +19,4 @@ Regra: nenhum número entra no texto final sem linha em 00_gestao/fontes_e_valid
 | **[H]** | Hipótese a validar | Não usar como afirmação |
 | **[S]** | Resultado de simulação exploratória (agentes de IA) | Só gera hipóteses e testa mensagens; nunca prova |
 | **[L]** | Lacuna de dado | A coletar |
+| **[C]** | Resultado de campanha própria (mídia paga) | Evidência real do projeto |
