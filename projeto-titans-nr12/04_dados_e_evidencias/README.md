@@ -12,4 +12,3 @@ Para cada arquivo: nome, fonte, data de acesso, tratamento aplicado.
 | `entrevista_professor_leandro.md` | Registro estruturado do áudio do professor (E01 a E15) | [E] |
 | `dados_validados.md` | Dados com fonte, frase permitida e cuidado de uso | [F] |
 | `simulacao_exploratoria/` | Protocolo (MiroFish), material-semente, requisito de previsão e registro de rodadas | [S] |
-| **[C]** | Resultado de campanha própria (mídia paga) | Evidência real do projeto |
