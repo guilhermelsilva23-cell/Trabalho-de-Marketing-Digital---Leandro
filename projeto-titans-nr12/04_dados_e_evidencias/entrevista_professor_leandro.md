@@ -21,6 +21,9 @@
 | E13 | Entrevistar clientes que importam é difícil: tratam o fornecedor como segredo competitivo (alguns removem a etiqueta) | 7 | [E] | Justifica o método (simulação exploratória e entrevistas com SST/manutenção) |
 | E14 | Exemplo de cliente que identificou problemas de ergonomia (fora da NR-12), aprovou melhorias e não executou por 3 anos | 2 | [E] | Insight: a inércia é o principal concorrente (Etapa 12) |
 | E15 | Importar compensa para equipamentos de mecânica simples, que a manutenção própria atende; fabricante nacional ou representante local vale para equipamentos problemáticos que exigem garantia | 7 | [E] | Perfil da máquina importada-alvo |
+| E16 | Os clientes chegam por indicação | 3 | [E] | Funil atual; o canal digital ainda não existe |
+| E17 | A Titans tem apenas o Instagram @titansolucoes (LinkedIn e YouTube não informados) | 3 | [E] **A VERIFICAR** por busca | Etapa 8 e lacuna do benchmarking |
+| E18 | Registro profissional (CREA): sem resposta | 3 | [L] | Ver pergunta 17 |
 
 ## Limitações
 - Amostra de um respondente, com interesse comercial.
