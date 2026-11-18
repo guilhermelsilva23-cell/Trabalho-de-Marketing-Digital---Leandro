@@ -13,8 +13,10 @@
 
 ## Pendências
 - [x] Resultado da ferramenta registrado (`resultado_lovable_2026-11-16.md`)
-- [ ] Ligar e testar o envio dos leads (hoje o formulário mostra sucesso mesmo sem destino configurado)
-- [ ] Decidir sobre o bloqueio de e-mails gratuitos (ver `decisoes.md`, item 7)
+- [x] Leads agora são salvos no banco do projeto mesmo sem webhook (v2, 18/11/2026)
+- [x] E-mail gratuito aceito, com marcação `email_corporativo` (decisão 8)
+- [ ] Definir quem consulta os leads e ligar webhook ou e-mail de aviso (hoje ninguém é notificado)
+- [ ] Remover a permissão de INSERT anônimo na tabela `leads` (prompt v3, item 1)
 - [ ] Definir preço e prazo do diagnóstico com a Titans
 - [ ] Case autorizado (ou manter o bloco oculto)
 - [ ] Ligar a campanha (Etapa 12) e a mídia (Etapa 11) a esta página

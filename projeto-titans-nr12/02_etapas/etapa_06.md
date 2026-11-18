@@ -72,7 +72,9 @@ Quem já conhece a Titans e quer cotar entra pelo botão "Envie sua RFQ" (Person
 ## 8. Pendências
 
 - [x] Resultado da ferramenta registrado (`05_prompts_ferramentas/resultado_lovable_2026-11-16.md`)
-- [ ] Enviar `prompt_lovable_ajustes_v2.md` e conferir o resultado
+- [x] Prompt v2 aplicado e revisado (`05_prompts_ferramentas/resultado_ajustes_v2_2026-11-18.md`)
+- [ ] Enviar `prompt_lovable_ajustes_v3.md` e conferir o resultado
+- [ ] Confirmar se o site publicado está no ar (o roadmap cita 404)
 - [ ] Abrir o preview e conferir o protótipo no celular e no computador (a revisão foi só do código)
 - [ ] Obter da Titans: cor exata da marca (logo já aplicado), WhatsApp, e-mail de RFQ, cidade/UF, domínio e texto da política de privacidade
 - [ ] Obter cases e fotos autorizados

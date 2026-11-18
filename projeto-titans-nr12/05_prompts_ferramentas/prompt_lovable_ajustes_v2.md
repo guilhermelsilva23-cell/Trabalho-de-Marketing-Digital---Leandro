@@ -24,4 +24,7 @@ Entrega: resumo do que foi alterado, o que não foi possível e quais testes pas
 ---
 
 ## Registro do resultado (único campo a preencher)
-[COLE AQUI O RESULTADO DA FERRAMENTA]
+**Ferramenta informada:** Bolt.new (o código tem marcas da Lovable; confirmar) · **Data:** 18/11/2026
+**Repositório:** https://github.com/guilhermelsilva23-cell/projeto-de-site
+**Resultado:** 9 dos 10 itens atendidos; o item 6 (robots) ficou parcial e a notificação por e-mail do item 1 não foi feita. 10 testes passam (rodados na revisão).
+**Detalhes e pontos de atenção:** `resultado_ajustes_v2_2026-11-18.md`.
