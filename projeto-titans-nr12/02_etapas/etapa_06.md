@@ -1,6 +1,6 @@
 # Etapa 06 — Reposicionamento do site (NR-12)
 
-**Status:** [x] desenvolvida (v1, 16/11/2026): estrutura, textos e protótipo por ferramenta. Pendente: dados da Titans e registro do resultado da ferramenta.
+**Status:** [x] desenvolvida (v1, 16/11/2026). Protótipo gerado na Lovable (repositório: https://github.com/guilhermelsilva23-cell/projeto-de-site), revisado pelo código. Pendente: dados da Titans, ajustes v2 e conferência visual.
 **Entregáveis do PDF:** 09 (página da solução para o site) e 10 (protótipo visual da página)
 **Onde estão os textos finais:** `05_prompts_ferramentas/prompt_lovable_site_nr12.md`, seção 3 (Página A). O protótipo visual é gerado pela ferramenta a partir desse prompt.
 **Legenda:** **[F]** fato com fonte · **[H]** hipótese · `[PREENCHER]` dado que só a Titans tem
@@ -71,8 +71,10 @@ Quem já conhece a Titans e quer cotar entra pelo botão "Envie sua RFQ" (Person
 
 ## 8. Pendências
 
-- [ ] Registrar o resultado da ferramenta em `05_prompts_ferramentas/prompt_lovable_site_nr12.md`
-- [ ] Obter da Titans: logo, cor exata da marca, WhatsApp, e-mail de RFQ, cidade/UF
+- [x] Resultado da ferramenta registrado (`05_prompts_ferramentas/resultado_lovable_2026-11-16.md`)
+- [ ] Enviar `prompt_lovable_ajustes_v2.md` e conferir o resultado
+- [ ] Abrir o preview e conferir o protótipo no celular e no computador (a revisão foi só do código)
+- [ ] Obter da Titans: cor exata da marca (logo já aplicado), WhatsApp, e-mail de RFQ, cidade/UF, domínio e texto da política de privacidade
 - [ ] Obter cases e fotos autorizados
 - [ ] Confirmar a equipe (mestres e doutores) e o que é feito internamente
 - [ ] Revisar a página com um engenheiro da Titans (argumentos técnicos)

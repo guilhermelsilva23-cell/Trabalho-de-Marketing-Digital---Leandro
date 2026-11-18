@@ -60,6 +60,18 @@ Observações:
 - [ ] Abrir "ver código-fonte" da home e checar se o texto aparece no HTML
 - [ ] Inspecionar a URL no Search Console (precisa de acesso)
 
+## 5.1 Como ficou no protótipo (Lovable, 16/11/2026)
+
+| Elemento | No protótipo |
+|---|---|
+| Title, meta description, H1 e H2 | Conforme a seção 3 |
+| Conteúdo no HTML (SSR) | Sim, pelo TanStack Start. Falta confirmar no site publicado |
+| JSON-LD | Organization, Service e FAQPage (só na página principal) |
+| Sitemap | Dinâmico; inclui só páginas indexáveis |
+| `robots.txt` | Sem a linha `Sitemap:` (ajuste no prompt v2) |
+| Canonical e og:url | Relativos; precisam do domínio (ajuste no prompt v2) |
+| GA4 e Pixel | IDs existem em `site.ts`, mas os scripts não são carregados (ajuste no prompt v2) |
+
 ## 6. Regra principal do PDF aplicada à Etapa 7
 
 - **Por quê:** concorrentes dominam busca local e por palavra-chave (Etapa 3).
@@ -76,3 +88,5 @@ Observações:
 - [ ] Reclassificar as prioridades com volume e concorrência
 - [ ] Confirmar a cidade/UF para versões locais
 - [ ] Verificar a indexação do site atual
+- [ ] Confirmar o domínio do novo site e aplicar canonical e sitemap absolutos
+- [ ] Após publicar, inspecionar a URL no Search Console e conferir que o texto está no HTML

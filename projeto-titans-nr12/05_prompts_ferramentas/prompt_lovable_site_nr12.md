@@ -142,4 +142,8 @@ BLOCO 7 — RODAPÉ mínimo (logo, contatos, política de privacidade).
 ## Registro do resultado (único campo a preencher)
 Cole abaixo o que a ferramenta fez: nome da ferramenta, data, link de teste, o que ficou diferente do prompt e a lista de [PREENCHER] pendentes.
 
-[COLE AQUI O RESULTADO DA FERRAMENTA]
+**Ferramenta:** Lovable · **Data:** 16/11/2026
+**Repositório:** https://github.com/guilhermelsilva23-cell/projeto-de-site
+**Resultado:** as duas páginas foram criadas com os textos e o SEO do prompt, em TanStack Start com SSR, mais página de política de privacidade, sitemap dinâmico e logos reais.
+**Diferenças e pendências:** detalhadas em `resultado_lovable_2026-11-16.md`. As principais: o formulário só envia para webhook (hoje vazio, e mesmo assim mostra sucesso), os scripts de GA4 e Pixel não são carregados, canonical relativo, e a política de privacidade está só com `[PREENCHER]`.
+**Link de teste:** [PREENCHER: URL de preview da Lovable]
