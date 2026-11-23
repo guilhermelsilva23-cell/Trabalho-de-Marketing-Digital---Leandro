@@ -16,7 +16,8 @@
 - [x] Leads agora são salvos no banco do projeto mesmo sem webhook (v2, 18/11/2026)
 - [x] E-mail gratuito aceito, com marcação `email_corporativo` (decisão 8)
 - [ ] Definir quem consulta os leads e ligar webhook ou e-mail de aviso (hoje ninguém é notificado)
-- [ ] Remover a permissão de INSERT anônimo na tabela `leads` (prompt v3, item 1)
+- [x] Permissão de INSERT anônimo removida no código (migração `0001`, 23/11/2026); falta confirmar que rodou no banco real
+- [x] Banner de cookies implementado (scripts de analytics só após "Aceitar")
 - [ ] Definir preço e prazo do diagnóstico com a Titans
 - [ ] Case autorizado (ou manter o bloco oculto)
 - [ ] Ligar a campanha (Etapa 12) e a mídia (Etapa 11) a esta página

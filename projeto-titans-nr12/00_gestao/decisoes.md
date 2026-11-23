@@ -5,10 +5,20 @@ Formato: **Decisão** | **Alternativas consideradas** | **Justificativa** | **Da
 
 2. **Escopo = somente NR-12.** Retrofit e automação (ideia do professor para uma segunda fase) ficam estacionados. Alternativa: manter como cross-sell. Justificativa: foco e profundidade. Data: 26/10/2026. Reavaliar ao final do ciclo 3.
 
-3. **"Máquinas importadas" = oferta dentro da campanha geral (hook no funil), e não o recorte exclusivo.** Oferta de entrada: Check-up NR-12 de máquina importada. Alternativa: recorte principal do trabalho. Justificativa: _escreva com suas palavras_ (indicado pelo grupo: integra o funil e as estratégias de redes). Data: 23/11/2026. Afeta Etapas 4, 12 e 13.
+3. **Duas páginas no site: institucional (`/adequacao-nr-12`, indexável) e landing do diagnóstico (`/adequacao-nr-12/diagnostico`, noindex).** Alternativa: uma página só. Justificativa: separar SEO de conversão e evitar canibalização [H]. Data: 16/11/2026.
 
-4. **Prof. Leandro é o rosto da marca e o único a gravar material; disponibilidade suposta de 1 h por mês.** Alternativa: gravar com mais pessoas da equipe. Justificativa: ativo principal da marca. Data: 23/11/2026. [S] Confirmar a disponibilidade real.
+4. **Protótipo do site por ferramenta de criação (Lovable e similares), via prompt versionado em `05_prompts_ferramentas`.** Alternativa: construir o site do zero. Justificativa: velocidade e entrega de protótipo visual exigida na Etapa 6. O resultado não vira entrega final sem revisão da Titans. Data: 16/11/2026.
 
-5. **Canal prioritário = LinkedIn (hipótese), YouTube em segundo, Instagram como reaproveitamento.** Alternativa: igualar os três canais. Justificativa: ver `02_etapas/etapa_08.md`, seção 3. A decisão é hipótese e será testada na Etapa 11 e medida na Etapa 16. Data: 23/11/2026.
+5. **Paleta provisória: preto, branco e vermelho (#E10600).** O vermelho exato da marca será confirmado com a Titans; cores ficam em variáveis. Data: 16/11/2026.
 
-6. **Autorização para citar clientes em conteúdo de NR-12:** clientes que aparecem no site (Cargill, CCR, DGS Defense, Hydac, Graneisa). Não amarrar nome a foto de projeto sem confirmar. Data: 23/11/2026. Bombril e CGR a confirmar.
+6. **Stack do protótipo: TanStack Start (React/TypeScript) com SSR, gerado pela Lovable.** Alternativa: HTML estático. Justificativa: a Lovable entrega com SSR, o que atende à exigência de conteúdo no HTML (Etapa 3, alerta de indexação). O código é protótipo e só vira entrega final após os ajustes e a revisão da Titans. Data: 16/11/2026.
+
+7. **RESOLVIDA em 18/11/2026 (ver item 8). Era: bloquear ou aceitar e-mails gratuitos no formulário.** A Lovable bloqueou (gmail, hotmail etc.), o que o prompt não pedia. Alternativas: manter o bloqueio (filtra lead, mas pode perder dono de PME, Persona 2) ou aceitar e marcar o lead como "e-mail não corporativo". O prompt v2 propõe a segunda. Decidir com a Titans. Data: 16/11/2026.
+
+8. **Formulário aceita e-mail gratuito e marca o lead como "não corporativo" (`email_corporativo=false`).** Alternativa: manter o bloqueio. Justificativa: não perder o dono de PME (Persona 2) e ainda permitir a qualificação do lead. Data: 18/11/2026.
+
+9. **Leads são gravados em banco do projeto (tabela `leads`), além do webhook opcional.** Alternativa: só webhook. Justificativa: evitar perda de lead enquanto o webhook não existe. Consequência: a política de privacidade precisa descrever o armazenamento (LGPD). Data: 18/11/2026.
+
+10. **Banner de consentimento para GA4 e Meta Pixel: implementado em 23/11/2026** (scripts só após "Aceitar"). Falta a Titans confirmar a decisão e revisar o texto do banner e da política de privacidade. Data: 18/11/2026 (proposta), 23/11/2026 (implementação).
+
+11. **`/robots.txt` gerado dinamicamente a partir de `SITE_URL`** (arquivo estático removido). Alternativa: editar o arquivo à mão. Justificativa: evitar esquecer a linha do sitemap quando o domínio sair. Data: 23/11/2026.

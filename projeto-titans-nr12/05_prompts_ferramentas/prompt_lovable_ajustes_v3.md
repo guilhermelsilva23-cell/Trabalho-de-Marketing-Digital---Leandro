@@ -21,4 +21,6 @@ Entrega: resumo do que foi alterado, o que não foi possível e quais testes pas
 ---
 
 ## Registro do resultado (único campo a preencher)
-[COLE AQUI O RESULTADO DA FERRAMENTA]
+**Data:** 23/11/2026 · **Repositório:** https://github.com/guilhermelsilva23-cell/projeto-de-site
+**Resultado:** 6 dos 7 itens atendidos; o aviso de novo lead por e-mail (item 3) não foi feito. 15 testes passam (rodados na revisão). Encontrada uma regressão: a tela de erro do `__root.tsx` voltou para o inglês.
+**Detalhes:** `resultado_ajustes_v3_2026-11-23.md`.

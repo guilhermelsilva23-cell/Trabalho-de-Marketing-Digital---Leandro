@@ -9,4 +9,6 @@ Pasta criada em 16/11/2026. Guarda os prompts enviados às ferramentas e o regis
 
 Regra do projeto: nenhum número, cliente ou resultado entra no site sem linha em `00_gestao/fontes_e_validacao.md`. O prompt proíbe a ferramenta de inventar esses itens e manda marcar lacunas com `[PREENCHER]`.
 | resultado_ajustes_v2_2026-11-18.md | Revisão dos ajustes v2: item a item, pontos de atenção e testes |
-| prompt_lovable_ajustes_v3.md | Terceiro prompt, com o que sobrou do v2 (banco, webhook, cookies, robots). Ainda não enviado |
+| prompt_lovable_ajustes_v3.md | Terceiro prompt (banco, webhook, cookies, robots). Enviado e registrado em 23/11/2026 |
+| resultado_ajustes_v3_2026-11-23.md | Revisão dos ajustes v3: item a item, regressão encontrada e o que falta para publicar |
+| prompt_lovable_ajustes_v4.md | Quarto prompt, com pequenos acertos (tela de erro, banner, README, .gitignore). Ainda não enviado |

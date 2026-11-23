@@ -68,9 +68,9 @@ Observações:
 | Conteúdo no HTML (SSR) | Sim, pelo TanStack Start. Falta confirmar no site publicado |
 | JSON-LD | Organization, Service e FAQPage (só na página principal) |
 | Sitemap | Dinâmico; inclui só páginas indexáveis |
-| `robots.txt` | Linha `Sitemap:` comentada, a ativar à mão com o domínio (v2); rota dinâmica proposta no prompt v3 |
+| `robots.txt` | Rota dinâmica: a linha `Sitemap:` aparece sozinha quando `SITE_URL` for preenchido (v3) |
 | Canonical e og:url | Passam a absolutos quando `SITE_URL` for preenchido (v2); hoje seguem relativos por falta de domínio |
-| GA4 e Pixel | Scripts carregam quando os IDs forem preenchidos (v2); consentimento de cookies em decisão (prompt v3) |
+| GA4 e Pixel | Scripts carregam quando os IDs forem preenchidos e o visitante aceitar o banner de cookies (v3) |
 
 ## 6. Regra principal do PDF aplicada à Etapa 7
 
