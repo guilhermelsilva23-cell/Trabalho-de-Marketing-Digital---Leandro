@@ -6,9 +6,5 @@ Fontes candidatas (verificar existência e acesso):
 - Volume de busca (Google Keyword Planner, Google Trends)
 Para cada arquivo: nome, fonte, data de acesso, tratamento aplicado.
 
-## Conteúdo atual
-| Arquivo/pasta | O que é | Tipo |
-|---|---|---|
-| `entrevista_professor_leandro.md` | Registro estruturado do áudio do professor (E01 a E15) | [E] |
-| `dados_validados.md` | Dados com fonte, frase permitida e cuidado de uso | [F] |
-| `simulacao_exploratoria/` | Protocolo (MiroFish), material-semente, requisito de previsão e registro de rodadas | [S] |
+## Arquivos
+- `redes_sociais_titans.md` — métricas e textos dos perfis da Titans (Etapa 8), coletados em 23/11/2026.
