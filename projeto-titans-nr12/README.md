@@ -8,6 +8,8 @@ Documentação científica e empresarial do trabalho, organizada para virar arti
 | 02_etapas | Aplicada | Uma nota por etapa do PDF (16 etapas) |
 | 03_artigo | Publicação | Estrutura IMRaD e argumento econômico |
 | 04_dados_e_evidencias | Evidência | Dados validados, entrevista com especialista, simulação exploratória (MiroFish) |
+| 05_prompts_ferramentas | Ferramentas | Prompts e resultados do protótipo do site |
+| 06_conteudo_e_criativos | Execução | Calendário, posts finalizados, artes e roteiros de vídeo (Etapas 9 e 10) |
 
 Regra: nenhum número entra no texto final sem linha em 00_gestao/fontes_e_validacao.md.
 

@@ -16,3 +16,9 @@
 11. O link do site aparece na bio do Instagram e na página do LinkedIn?
 12. O Prof. Leandro consegue gravar 1 hora por mês? Quem edita o material?
 13. A Titans consta na experiência do perfil do Leandro no LinkedIn?
+## Novas (Etapas 9 e 10)
+14. Qual projeto real sustenta o relato de máquina importada (esquema em mandarim, sem código-fonte, IHM e CLP de segurança separados)? O cliente autoriza contar a história de forma anônima? (post C6, V2 e vídeo técnico)
+15. O Prof. Leandro pode enviar as fotos originais do site, os vídeos dos casos e o logo em alta resolução?
+16. Quem edita os vídeos e diagrama os carrosséis (grupo ou Titans)?
+17. A Titans pode citar "mandarim" ou prefere "outro idioma"?
+18. Qual é a capacidade mensal de diagnósticos e projetos (um único responsável técnico assina)? Sem isso, não impulsionar C8, C9 e V3.
